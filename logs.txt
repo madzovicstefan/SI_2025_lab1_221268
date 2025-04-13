@@ -1,0 +1,15 @@
+*   5900eba (HEAD -> master, origin/master, origin/HEAD) Merge pull request #11 from madzovicstefan/3-list-tasks-sorted-by-name
+|\  
+| * 326d52f (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) implement sortTasksByName    
+* |   0c7598d Merge pull request #12 from madzovicstefan/5-filter-tasks-by-category
+|\ \
+| |/
+|/|
+| * 3c3b3ed (origin/5-filter-tasks-by-category, 5-filter-tasks-by-category) implement filterByCategory     
+|/
+| * 359468b (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) implement getCompletedTasks    
+|/
+* 6b7159a Add starter code
+* 9530795 Inital commit
+* 7efda27 Inital commit
+(END)
